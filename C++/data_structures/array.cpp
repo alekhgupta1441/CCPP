@@ -17,7 +17,7 @@ int main()
     cin >> j;
     while(j<n)
     	{
-    	 s[j-1]=s[j];
+    	 arr[j-1]=arr[j];
          j++;
         }
   	n=n-1;
