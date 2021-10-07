@@ -1,5 +1,4 @@
-# C_and_C++_Notes
+# CCPP
 
-* All contributions related to basic data structures and algorithms are welcomed.
-* Other interesting coding problems with solutions can be committed too.
+* Get up and start optimising things.
 * Do give a star if you contribute.
